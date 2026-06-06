@@ -1,3 +1,11 @@
+---
+title: AI Research Assistant
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
 # AI Research Assistant
 
 An intelligent multi-source Research Assistant built with Flask, Retrieval-Augmented Generation (RAG), FAISS Vector Search, Agentic AI workflows, and Google Gemini.
