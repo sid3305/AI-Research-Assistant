@@ -13,6 +13,12 @@ An intelligent multi-source Research Assistant built with Flask, Retrieval-Augme
 The system allows users to upload PDFs, CSV files, and website content, convert them into searchable knowledge bases, retrieve relevant context using semantic search, and generate accurate answers using Large Language Models.
 
 ---
+## Live Demo
+
+👉 https://huggingface.co/spaces/sid3305/AI-Research-Assistant
+
+Try uploading a PDF, CSV dataset, or website URL and ask questions about the content.
+---
 
 ## Highlights
 
