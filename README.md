@@ -17,7 +17,6 @@ The system allows users to upload PDFs, CSV files, and website content, convert 
 
 👉 https://huggingface.co/spaces/sid3305/AI-Research-Assistant
 
-Try uploading a PDF, CSV dataset, or website URL and ask questions about the content.
 ---
 
 ## Highlights
