@@ -1,0 +1,17 @@
+venv/
+.venv/
+
+**pycache**/
+*.pyc
+
+.env
+
+uploads/
+logs/
+instance/
+vector_db/
+
+.git
+.gitignore
+
+README.md

@@ -1,0 +1,55 @@
+# Virtual Environments
+
+venv/
+.venv/
+
+# Python
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+
+.env
+
+# Databases
+
+instance/
+*.db
+
+# Uploads
+
+uploads/
+
+# Vector Stores
+
+vector_db/
+
+# Logs
+
+logs/
+*.log
+
+# Testing
+
+.pytest_cache/
+.coverage
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Build
+
+build/
+dist/
+*.egg-info/
+
+docs/screenshots/
