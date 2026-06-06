@@ -10,6 +10,7 @@ The system allows users to upload PDFs, CSV files, and website content, convert 
 👉 https://huggingface.co/spaces/sid3305/AI-Research-Assistant
 
 Experience a fully deployed Agentic RAG application capable of answering questions over PDFs, CSV datasets, and website content using semantic retrieval and Google Gemini.
+
 ---
 
 ## Highlights
