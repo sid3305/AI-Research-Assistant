@@ -11,4 +11,4 @@ COPY . .
 
 EXPOSE 10000
 
-CMD ["sh", "-c", "gunicorn -w 1 -b 0.0.0.0:$PORT run:app"]
+CMD ["gunicorn", "-w", "1", "-b", "0.0.0.0:7860", "run:app"]
